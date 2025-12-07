@@ -15,17 +15,16 @@ Halaman Login
 
 Login admin
 
-Username   : admin
-
+Username   : admin |
 Password   : admin
 
 Login user
 
-Username   : user
-
+Username   : user |
 Password   : user
 
 data password di enkripsi jadi password di database akan menjadi teks random
+
 
 Halaman Utama
 <img width="1863" height="903" alt="{8EB46387-BB11-4E12-A00B-4F7BEE7F051F}" src="https://github.com/user-attachments/assets/b6d30848-20e5-431b-a8ee-783eb856b0ac" />
